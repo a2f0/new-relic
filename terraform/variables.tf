@@ -1,11 +1,11 @@
 variable "new_relic_account_id" {
-    type = number
+  type = number
 }
 
 variable "new_relic_api_key" {
-    type = string
+  type = string
 }
 
 variable "slack_webhook_url" {
-    type = string
+  type = string
 }
